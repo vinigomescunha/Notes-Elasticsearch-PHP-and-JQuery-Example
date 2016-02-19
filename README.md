@@ -3,6 +3,7 @@
 A little example using jQuery, PHP, Elasticsearch
 
 /**************************************************************/
+
 References:
 
 jQuery
