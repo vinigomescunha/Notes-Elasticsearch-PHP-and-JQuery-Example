@@ -32,3 +32,5 @@ https://www.elastic.co/guide/en/elasticsearch/reference/1.4/modules-http.html
 
 delete all index - to delete all test data if necessary
 curl -XDELETE localhost:9200/INDEX
+
+see lib/constants.php
